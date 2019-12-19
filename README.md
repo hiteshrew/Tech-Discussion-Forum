@@ -12,7 +12,5 @@ Some minor bugs and a problem in retriving the posts.
 
 Currently not working on this...
 
-Screens :
-!(https://github.com/hiteshrew/Tech-Discussion-Forum/blob/master/screens/Add-new-post-fragment.png)
-
+Screens : In the Screens folder :)
 
