@@ -13,6 +13,6 @@ Some minor bugs and a problem in retriving the posts.
 Currently not working on this...
 
 Screens :
-![alt text](https://github.com/hiteshrew/Tech-Discussion-Forum/blob/master/screens/Add new post fragment.png)
+![alt text](https://github.com/hiteshrew/Tech-Discussion-Forum/blob/master/screens/Add-new-post-fragment.png)
 
 
