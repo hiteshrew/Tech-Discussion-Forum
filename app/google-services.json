@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "185314239038",
+    "firebase_url": "https://techforum-46eb4.firebaseio.com",
+    "project_id": "techforum-46eb4",
+    "storage_bucket": "techforum-46eb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185314239038:android:4f30dce4a81d0ae0",
+        "android_client_info": {
+          "package_name": "com.hitesh.techforum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185314239038-htkeoq4rr0kek42nre6vnegjbedr4h26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hitesh.techforum",
+            "certificate_hash": "9cb747916f4cd71b47a5839135e43c83454daf23"
+          }
+        },
+        {
+          "client_id": "185314239038-ho1e2ep98e0kvgmc8dg8vqgr3jb998cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzA45yE1b3rwjF36zOtvjOymOrtrAiTLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185314239038-ho1e2ep98e0kvgmc8dg8vqgr3jb998cq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
